@@ -14,3 +14,8 @@ Code: written in Matlab; we here use regularized logistic regression
 Description: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 Solution: https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard
 Code: written in Python
+
+4. Digit recognizer
+Description: https://www.kaggle.com/c/digit-recognizer
+Solution: https://www.kaggle.com/poonaml/deep-neural-network-keras-way
+Code: written in Python
